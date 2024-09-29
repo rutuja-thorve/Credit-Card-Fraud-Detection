@@ -44,18 +44,18 @@ Metrics: Accuracy, Precision, Recall, and F1-Score
 
 Best model achieved over 99% on the test set with a high recall rate for fraud detection.
 
-Results
+## Results
 
 Best Model: Random Forest Classifier with precision of 98%, recall of 96%, and F1-score of 97%
 
 Imbalanced Data Handling: SMOTE significantly improved model performance by balancing the dataset.
 
-Conclusion
+## Conclusion
 
 This project demonstrated the effectiveness of machine learning in fraud detection, especially when dealing with imbalanced datasets. Future work could involve using deep learning models or optimizing hyperparameters for better performance.
 
-Technologies Used
+## Technologies Used
 
-Programming Language: Python
+### Programming Language: Python
 
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SMOTE (from imblearn)
+### Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SMOTE (from imblearn)
